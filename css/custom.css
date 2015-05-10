@@ -1,0 +1,40 @@
+.jumbotron {
+    background-color: white !important;
+}
+.jumbotron h1 {
+    color: DimGray;
+}
+.jumbotron .heading-one {
+    font-size:  52px;
+    line-height: 54px;
+    margin-top: -10px;
+    color: DarkGray;
+}
+.jumbotron .heading-two {
+    line-height: 32px;
+    color: DarkGray;
+}
+
+.main {
+    background-color: Gainsboro;
+    padding-top: 55px;
+    width: 100%;
+}
+.top-thumb {
+    margin-bottom: 45px;
+}
+footer {
+    padding-top: 60px;
+    padding-bottom: 25px;
+}
+footer P {
+    color: Gray;
+    font-size: 22px;
+    margin-left: 20px;
+}
+footer a {
+    color: MediumSpringGreen;
+}
+footer a:hover {
+    color: SpringGreen;
+}
